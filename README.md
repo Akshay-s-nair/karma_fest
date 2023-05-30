@@ -20,6 +20,6 @@ https://akshay-s-nair.github.io/karma_fest/task3
 | 2 | [Create a Mozilla Splash Page](https://akshay-s-nair.github.io/karma_fest/task2) |
 | 3 | [ Typesetting a community school homepage](https://akshay-s-nair.github.io/karma_fest/task3)|
 | 4 | [Styling a biography page](https://akshay-s-nair.github.io/karma_fest/task4)|
-| 5 | (https://akshay-s-nair.github.io/karma_fest/task5)|
+| 5 | [Fundamental layout comprehension](https://akshay-s-nair.github.io/karma_fest/task5)|
 
 
