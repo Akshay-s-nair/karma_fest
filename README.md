@@ -17,4 +17,4 @@ https://akshay-s-nair.github.io/karma_fest/task3
  | Task No. | Solution |
 |-|-|
 | 1 | [Replicate a Website Using HTML](<https://akshay-s-nair.github.io/karma_fest/task1>) |
-| 2 | [Task Name](<LINK_TO_YOUR_SOLUTION>) |
+| 2 | [Create a Mozilla Splash Page](https://akshay-s-nair.github.io/karma_fest/task2) |
