@@ -1,6 +1,6 @@
 # karma_fest
 A bunch of websites created as part of mulearn karma fest.
-<hr>
+<!-- <hr>
 <br>
 1. Replicate a Website Using HTML : 
 https://akshay-s-nair.github.io/karma_fest/task1
@@ -12,3 +12,9 @@ https://akshay-s-nair.github.io/karma_fest/task2
 <br>
 4. Typesetting a community school homepage :  
 https://akshay-s-nair.github.io/karma_fest/task3
+ -->
+ 
+ | Task No. | Solution |
+|-|-|
+| 1 | [Replicate a Website Using HTML](<https://akshay-s-nair.github.io/karma_fest/task1>) |
+| 2 | [Task Name](<LINK_TO_YOUR_SOLUTION>) |
